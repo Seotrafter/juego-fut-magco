@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juego-fut-magco.com/sitemap.xml
